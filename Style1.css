@@ -7,4 +7,9 @@ h2{
 color:MidnightBlue;font-family:Georgia,serif;font-size:200%;
 }
 body{background-color:LightYellow;
-    }
+ }
+p{
+font-family: "Garamond" , serif;
+font-size:"300%"
+background-color:Chartreuse;
+}
