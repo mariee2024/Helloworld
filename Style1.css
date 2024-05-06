@@ -7,9 +7,10 @@ text-align:center;
 color:MidnightBlue;font-family:Georgia,serif;font-size:200%;
 }
 
-body{
- background-color:LightYellow;
- }
+
+body {
+  background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg");
+}
 
 p{
 text-align:center;
