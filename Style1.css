@@ -5,6 +5,15 @@ color:Salmon;
 font-family:Brush Script MT,cursive;
 font-size:300%;
 }
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid black;    
+  background-image: url("https://img.freepik.com/premium-vector/cartoon-cute-cat-with-square-shape-square-icon-apps-games-vector-illustration-isolated_351178-23.jpg"); 
+}
+
 h2{
 text-align:center;
 color:MidnightBlue;
